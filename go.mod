@@ -1,1 +1,1 @@
-module protos
+module github.com/RUPOOL-PRO/authprotos
